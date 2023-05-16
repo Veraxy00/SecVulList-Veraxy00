@@ -47,7 +47,7 @@ env.execute("Flink Kafka Demo");
 
 DNSlog服务器：
 
-![4.jpg]
+![](4.jpg)
 
 
 
